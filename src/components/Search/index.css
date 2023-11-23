@@ -1,0 +1,23 @@
+table, table thead th,table tbody tr td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(238, 238, 238);
+    box-sizing: border-box;
+}
+table{
+    width: 750px;
+    box-sizing: border-box;
+}
+table tr{
+    height: 40px;
+}
+table th{
+    color: rgb(0, 47, 255);
+}
+input{
+    width: 750px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    outline: none;
+}
